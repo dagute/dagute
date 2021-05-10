@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://www.tonica.la/geek/Los-ninos-admiran-mas-a-Kamado-Tanjiro-de-Demon-Slayer-que-a-sus-padres-20201213-0023.html#&gid=1&pid=1" width="144" align="right" hspace="0" />
+<img src="https://github.com/dagute/Personal-Portfolio/blob/main/dist/images/tanjiro.jpg" width="144" align="right" hspace="0" />
 
 👋 &nbsp;Hello, world! <br/> I am David Agudelo
 ======
