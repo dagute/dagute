@@ -28,7 +28,7 @@ If you are interested in see my porfolio website [check out my **projects page**
 	<img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 	<img src="https://img.shields.io/badge/java-%23ea2e2e.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
 	<img src="https://img.shields.io/badge/mongodb-%2368a14a.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-	img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
  </details>
 
 <details>
