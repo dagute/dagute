@@ -16,7 +16,7 @@ If you are interested in see my porfolio website [check out my **projects page**
 [<img src="https://img.shields.io/badge/instagram-%23833AB4.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/davidagudelot/)
 
 <details>
-	<summary>:grenade:&nbsp;&nbsp;&nbsp;<b>My Arsenal</b></summary>
+	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>My Arsenal</b></summary>
 	<br/>
   	<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
