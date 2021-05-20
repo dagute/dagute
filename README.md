@@ -38,7 +38,9 @@ If you are interested in see my porfolio website [check out my **projects page**
 	<img src="https://jf-gh-stats.vercel.app/api/top-langs/?username=dagute&layout=compact&hide=java&title_color=afc2ef&icon_color=afc2ef&theme=react" alt="GitHub Top Languages" align="top"/>
 </details>
 
-#### Profile Visits 
+<details>
+<summary><b>Profile Visits</b></summary>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dagute.dagute)
+</details>
 
