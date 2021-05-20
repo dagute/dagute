@@ -39,7 +39,7 @@ If you are interested in see my porfolio website [check out my **projects page**
 </details>
 
 <details>
-<summary><b>Profile Visits</b></summary>
+<summary>:eyes:&nbsp;&nbsp;&nbsp;<b>Profile Visits</b></summary>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dagute.dagute)
 </details>
